@@ -19,7 +19,9 @@ A basic calculator application that performs arithmetic operations such as addit
 
 ![Calculator Screenshot](screenshot.png)
 
+## Demo
 
+You can try out the calculator live [here](https://marylindsen.github.io/calculator/).
 ## Getting Started
 
 To run the calculator locally:
