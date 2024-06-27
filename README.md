@@ -26,5 +26,5 @@ To run the calculator locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone https://github.com/MaryLindsen/simple-calculator.git
 
