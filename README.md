@@ -17,7 +17,7 @@ A basic calculator application that performs arithmetic operations such as addit
 
 ## Screenshots
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](calculator.png)
 
 ## Demo
 
